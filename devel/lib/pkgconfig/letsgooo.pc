@@ -1,0 +1,8 @@
+prefix=/home/vinh/vidu_03/devel
+
+Name: letsgooo
+Description: Description of letsgooo
+Version: 0.0.0
+Cflags: -I/home/vinh/vidu_03/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

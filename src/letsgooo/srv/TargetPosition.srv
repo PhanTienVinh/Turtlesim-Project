@@ -1,0 +1,8 @@
+float64 target_x
+float64 target_y
+float64 target_theta
+---
+float64 linear_x
+float64 angular_z
+bool feedback
+string message

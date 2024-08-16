@@ -1,0 +1,10 @@
+(cl:defpackage letsgooo-srv
+  (:use )
+  (:export
+   "TARGETPOSITION"
+   "<TARGETPOSITION-REQUEST>"
+   "TARGETPOSITION-REQUEST"
+   "<TARGETPOSITION-RESPONSE>"
+   "TARGETPOSITION-RESPONSE"
+  ))
+

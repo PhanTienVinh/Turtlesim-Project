@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/vinh/turtlebot3_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/vinh/catkin_ws/src/beginner_tutorials/include/**",
+        "/home/vinh/vidu_03/src/letsgooo/include/**",
+        "/home/vinh/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/vinh/turtlebot3_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

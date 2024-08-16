@@ -1,0 +1,8 @@
+prefix=/home/vinh/vidu_03/install
+
+Name: letsgooo
+Description: Description of letsgooo
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

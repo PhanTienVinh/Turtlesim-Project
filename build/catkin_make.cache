@@ -1,0 +1,2 @@
+letsgooo
+-DCATKIN_DEVEL_PREFIX=/home/vinh/vidu_03/devel -DCMAKE_INSTALL_PREFIX=/home/vinh/vidu_03/install -G Unix Makefiles
